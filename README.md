@@ -15,4 +15,4 @@ python是3.8
 
 還有pre-trained model的下載連結 https://drive.google.com/drive/folders/1QEbdEn-DO-23hYCLgaB3f4vP8e8L8iIp?usp=sharing
 
-環境安裝好後即可python document_classification.py執行程式
+環境安裝好後即可python semantic_analysis.py執行程式

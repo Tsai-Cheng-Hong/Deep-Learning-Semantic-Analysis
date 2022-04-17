@@ -26,3 +26,12 @@ python是3.8
 3.特徵選擇 : LSTM
 
 4.分類器 : 3-Layer Fully Connect
+
+
+------------------------------------------------------------------------
+
+可以試一試使用不同的語言模型進行訓練
+
+不同的語言模型將會有不一樣的成效
+
+各式語言模型:https://github.com/Tsai-Cheng-Hong/Deep-Learning-Word-Embedding
